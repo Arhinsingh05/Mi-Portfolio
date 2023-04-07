@@ -1,2 +1,2 @@
 # My Portfolio
-mi primer portfolio digital
+My First Digital Portfolio
